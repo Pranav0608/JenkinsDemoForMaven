@@ -5,6 +5,7 @@
 	<artifactId>Selenium_Build</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
+<!--  test -->
 	<dependencies>
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
